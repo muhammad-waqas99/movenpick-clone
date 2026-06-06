@@ -440,7 +440,7 @@ header img.main-logo {
   transition: color 0.2s;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 900px) {
   .nav {
     flex-wrap: wrap;
     gap: 10px;
@@ -495,7 +495,7 @@ header img.main-logo {
   }
 }
 
-@media (max-width: 710px) {
+@media (max-width: 768px) {
   .navbar {
     padding: 10px;
   }
