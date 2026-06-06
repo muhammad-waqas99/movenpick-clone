@@ -591,6 +591,7 @@ header img.main-logo {
     padding: 25px;
   }
 
+
   .loyalty-section {
     padding: 30px 20px;
   }
@@ -685,6 +686,14 @@ header img.main-logo {
 
   .loyalty-section h1 {
     font-size: 20px;
+  }
+    .offer-content p{
+    font-size: 10px;
+    height: auto;
+    width: 240px;
+    text-align: center;
+
+    
   }
 
   .loyalty-section button {
