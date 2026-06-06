@@ -495,7 +495,7 @@ header img.main-logo {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 710px) {
   .navbar {
     padding: 10px;
   }
