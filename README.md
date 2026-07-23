@@ -1,5 +1,7 @@
  Mövenpick Hotels & Resorts Homepage Clone
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://movenpick-clone.vercel.app/)
+
 A homepage clone inspired by the Mövenpick Hotels & Resorts website, built using HTML and CSS as part of my frontend learning journey at SMIT (Saylani Mass IT Training).
 
  Features
@@ -29,13 +31,7 @@ This project was created to practice:
  Building real-world website sections
  Improving frontend development skills
 
- Live Demo
 
-Add your Vercel deployment link here.
-
- GitHub Repository
-
-Add your GitHub repository link here.
 
  Author
 
